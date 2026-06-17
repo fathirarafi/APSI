@@ -355,16 +355,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Sequence Diagram (Registrasi Pelanggan)" id="VdHwkFlJRcBIDad8Ariy">
-    <mxGraphModel dx="1359" dy="884" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="OZsL1L6wHP_Kdtv-WMtS-0" />
-        <mxCell id="OZsL1L6wHP_Kdtv-WMtS-1" parent="OZsL1L6wHP_Kdtv-WMtS-0" />
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram name="Copy of Sequence Diagram (Registrasi Pelanggan)" id="WaZUV_RUafXQN-7dUSDE">
-    <mxGraphModel grid="1" page="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1189" dy="774" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="btQcZR7plUs5Fy3YbGvh-0" />
         <mxCell id="btQcZR7plUs5Fy3YbGvh-1" parent="btQcZR7plUs5Fy3YbGvh-0" />
@@ -457,6 +449,80 @@
         </mxCell>
         <mxCell id="btQcZR7plUs5Fy3YbGvh-21" parent="btQcZR7plUs5Fy3YbGvh-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="return hasil cek" vertex="1">
           <mxGeometry height="30" width="105" x="727.5" y="645" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Sequence Diagram (Registrasi Pelanggan)" id="VdHwkFlJRcBIDad8Ariy">
+    <mxGraphModel dx="1119" dy="728" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="OZsL1L6wHP_Kdtv-WMtS-0" />
+        <mxCell id="OZsL1L6wHP_Kdtv-WMtS-1" parent="OZsL1L6wHP_Kdtv-WMtS-0" />
+        <mxCell id="Qt939q4fbYMvI10cC4L2-1" parent="OZsL1L6wHP_Kdtv-WMtS-1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=75;" value="" vertex="1">
+          <mxGeometry height="675" width="45" x="180" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qt939q4fbYMvI10cC4L2-2" parent="OZsL1L6wHP_Kdtv-WMtS-1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Halaman Registrasi" vertex="1">
+          <mxGeometry height="675" width="100" x="380" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qt939q4fbYMvI10cC4L2-3" parent="OZsL1L6wHP_Kdtv-WMtS-1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="Sistem" vertex="1">
+          <mxGeometry height="660" width="100" x="615" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qt939q4fbYMvI10cC4L2-4" parent="OZsL1L6wHP_Kdtv-WMtS-1" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" value="db:pelanggan" vertex="1">
+          <mxGeometry height="660" width="100" x="870" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qt939q4fbYMvI10cC4L2-5" parent="OZsL1L6wHP_Kdtv-WMtS-1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" value="frame" vertex="1">
+          <mxGeometry height="375" width="735" x="105" y="705" as="geometry" />
+        </mxCell>
+        <mxCell id="M_WQeM4MNHwljy-1yLjr-3" parent="OZsL1L6wHP_Kdtv-WMtS-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="105" width="30" x="187.5" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="M_WQeM4MNHwljy-1yLjr-7" edge="1" parent="OZsL1L6wHP_Kdtv-WMtS-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.029;entryY=0.201;entryDx=0;entryDy=0;entryPerimeter=0;" value="Mengakses halaman registrasi">
+          <mxGeometry relative="1" width="80" x="0.0025" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="217.5" y="195" as="sourcePoint" />
+            <mxPoint x="415.87" y="195.14999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_WQeM4MNHwljy-1yLjr-8" edge="1" parent="OZsL1L6wHP_Kdtv-WMtS-1" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;exitX=-0.042;exitY=0.502;exitDx=0;exitDy=0;exitPerimeter=0;" value="menampillkan form registrasi">
+          <mxGeometry relative="1" x="-0.0012" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="413.74" y="240.30000000000007" as="sourcePoint" />
+            <mxPoint x="217.5" y="239.70999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_WQeM4MNHwljy-1yLjr-9" parent="OZsL1L6wHP_Kdtv-WMtS-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="105" width="30" x="415" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="M_WQeM4MNHwljy-1yLjr-10" edge="1" parent="OZsL1L6wHP_Kdtv-WMtS-1" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;" value="mengisi &amp;amp; submit form">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="203" y="315" as="sourcePoint" />
+            <mxPoint x="414.9999999999999" y="315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_WQeM4MNHwljy-1yLjr-11" parent="OZsL1L6wHP_Kdtv-WMtS-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="360" width="30" x="187.5" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="M_WQeM4MNHwljy-1yLjr-12" edge="1" parent="OZsL1L6wHP_Kdtv-WMtS-1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="kirim data registrasi">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="445" y="345" as="sourcePoint" />
+            <mxPoint x="600" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_WQeM4MNHwljy-1yLjr-14" edge="1" parent="OZsL1L6wHP_Kdtv-WMtS-1" source="Qt939q4fbYMvI10cC4L2-3" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" value="cek duplikasi email">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="690.0038095238097" y="375" as="sourcePoint" />
+            <mxPoint x="879.98" y="375" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="M_WQeM4MNHwljy-1yLjr-15" parent="OZsL1L6wHP_Kdtv-WMtS-1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="105" width="30" x="415" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="M_WQeM4MNHwljy-1yLjr-16" edge="1" parent="OZsL1L6wHP_Kdtv-WMtS-1" source="Qt939q4fbYMvI10cC4L2-4" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" value="return hasil cek">
+          <mxGeometry relative="1" x="-0.001" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="785" y="435" as="sourcePoint" />
+            <mxPoint x="705" y="435" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
