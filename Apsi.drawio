@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="Class Diagram" id="XLRAudqMSV8JJL2WmWoO">
     <mxGraphModel dx="1729" dy="1125" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -334,6 +334,32 @@
         <mxCell id="-Ip3KR_69kROD7_R9hKT-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="0..*" vertex="1">
           <mxGeometry height="30" width="60" x="735" y="135" as="geometry" />
         </mxCell>
+        <mxCell id="-Ip3KR_69kROD7_R9hKT-54" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="0..*" vertex="1">
+          <mxGeometry height="30" width="60" x="1155" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ip3KR_69kROD7_R9hKT-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="1275" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ip3KR_69kROD7_R9hKT-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="600" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ip3KR_69kROD7_R9hKT-57" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="600" y="555" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ip3KR_69kROD7_R9hKT-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="1" vertex="1">
+          <mxGeometry height="30" width="60" x="465" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="-Ip3KR_69kROD7_R9hKT-59" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="0..*" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="555" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Sequence Diagram (Registrasi Pelanggan)" id="VdHwkFlJRcBIDad8Ariy">
+    <mxGraphModel dx="1585" dy="1032" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="OZsL1L6wHP_Kdtv-WMtS-0" />
+        <mxCell id="OZsL1L6wHP_Kdtv-WMtS-1" parent="OZsL1L6wHP_Kdtv-WMtS-0" />
       </root>
     </mxGraphModel>
   </diagram>
