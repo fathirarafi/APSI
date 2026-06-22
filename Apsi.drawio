@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="10">
   <diagram name="Class Diagram" id="XLRAudqMSV8JJL2WmWoO">
-    <mxGraphModel dx="1585" dy="1032" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -920,7 +920,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Sequence Diagram (Pembuatan Pesanan)" id="SIyZVa5R6jomKHjILPpf">
-    <mxGraphModel dx="1585" dy="1032" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="aJiTkuRMFAmAufAoNe9p-0" />
         <mxCell id="aJiTkuRMFAmAufAoNe9p-1" parent="aJiTkuRMFAmAufAoNe9p-0" />
@@ -1247,7 +1247,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Sequence Diagram (Checkout Pesanan))" id="IABMoQYp0V0TzyzHJBEf">
-    <mxGraphModel dx="1729" dy="1125" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="9_Iu92dTA9nDkUrwN7QE-0" />
         <mxCell id="9_Iu92dTA9nDkUrwN7QE-1" parent="9_Iu92dTA9nDkUrwN7QE-0" />
@@ -1908,7 +1908,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Sequence Diagram (Pengiriman Pesanan)" id="uM5BFkHOo4spykzzkoK_">
-    <mxGraphModel dx="827" dy="538" grid="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="15" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="fumZn426IG24PdQMTPY3-0" />
         <mxCell id="fumZn426IG24PdQMTPY3-1" parent="fumZn426IG24PdQMTPY3-0" />
